@@ -1,0 +1,9 @@
+this uses GenomeTools annotation toolsinstructions and download where
+http://genometools.org/annotationsketch.html
+
+seee  http://genometools.org/cgi-bin/gff3validator.cgi
+for validation of the input format
+
+
+to use pyhton bindings in $genometoolsHOME/gtpython do
+ sudo python setup.py install
